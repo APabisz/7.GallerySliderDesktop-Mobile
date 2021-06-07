@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 20px
+}
+
+span.fas {
+  -moz-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-drag: none;
+  user-select: none;
+}
